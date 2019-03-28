@@ -4,7 +4,7 @@ from discord.ext import commands
 # Set the bot prefix
 Bot_Prefix = ('XX')
 # Set the bot token
-Token = 'NTU4NDU0MDYwMDAxMzk0Njkx.D3XH7w.fsLJMqlZkznsE_CU0__r6_BxIjs'
+Token = '嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻'
 
 # Set the bot
 client = commands.Bot(command_prefix=Bot_Prefix)
